@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/risk-logo.jpg</file>
+        <file>imgs/risk-logojpg</file>
+        <file>imgs/risk-movie-slice.jpg</file>
+        <file>imgs/riskStart.jpeg</file>
+        <file>imgs/riskStart2.jpeg</file>
+        <file>sounds/Click.mp3</file>
+        <file>sounds/Click.wav</file>
+        <file>sounds/Click1.wav</file>
+        <file>sounds/mainTheme.wav</file>
+        <file>sounds/mainTheme2.mp3</file>
+        <file>sounds/mainTheme2.wav</file>
+    </qresource>
+</RCC>
